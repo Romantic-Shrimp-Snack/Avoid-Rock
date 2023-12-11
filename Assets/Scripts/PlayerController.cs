@@ -61,5 +61,7 @@ public class PlayerController : MonoBehaviour
             // EndGame 메서드 실행
             gameManager.EndGame();
         }
+
+        
     }
 }
